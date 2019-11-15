@@ -9,4 +9,6 @@ HERE I CREATE A CNN MODEL TO CLASSIFY THE IMAGES OF NATURAL OBJECTS IN DIFFERNT 
 
 
 # MODEL DOWNLOAD LINK:"https://drive.google.com/file/d/1Y697Vk7glAZmObgiyQgfe5QL7wlHYy__/view?usp=sharing"
+
+
 # you can use the predict model file to see the working of the project
